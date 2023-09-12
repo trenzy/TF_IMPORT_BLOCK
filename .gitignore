@@ -1,0 +1,21 @@
+# Local .terraform directories
+**/.terraform/*
+
+# Terraform Lock files
+.terraform.lock.hcl
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# Exclude all .tfvars files
+*.tfvars
+*.tfvars.json
+
+# Log files
+#crash.log
+*.log
+
+# Signature-Based certificate and private keys
+*.crt
+*.key
